@@ -40,15 +40,6 @@
   <p align="center">
     My name is Francis and I'm a second year computer science student in London
     <br />
-    <a href="ttps://github.com/FrancisDavison/FrancisDavison/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="ttps://github.com/FrancisDavison/FrancisDavison/">View Demo</a>
-    ·
-    <a href="ttps://github.com/FrancisDavison/FrancisDavison/issues">Report Bug</a>
-    ·
-    <a href="ttps://github.com/FrancisDavison/FrancisDavison/issues">Request Feature</a>
-  </p>
 </p>
 
 
