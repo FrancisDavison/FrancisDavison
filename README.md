@@ -35,10 +35,10 @@
     <img src="Assets/Profile.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Welcome!</h3>
 
   <p align="center">
-    project_description
+    About me and what I'm doing here
     <br />
     <a href="ttps://github.com/FrancisDavison/FrancisDavison/"><strong>Explore the docs »</strong></a>
     <br />
