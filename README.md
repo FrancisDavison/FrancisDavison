@@ -38,7 +38,7 @@
   <h3 align="center">Welcome!</h3>
 
   <p align="center">
-    About me and what I'm doing here
+    My name is Francis and I'm a second year computer science student in London
     <br />
     <a href="ttps://github.com/FrancisDavison/FrancisDavison/"><strong>Explore the docs »</strong></a>
     <br />
