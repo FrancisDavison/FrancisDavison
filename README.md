@@ -52,11 +52,11 @@ Here's a blank template to get started:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
+[contributors-shield]: https://img.shields.io/github/contributors/FrancisDavison/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/FrancisDavison/FrancisDavison/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/FrancisDavison/FrancisDavison.svg?style=for-the-badge
+[forks-url]: https://github.com/FrancisDavison/FrancisDavison/network/members
+[stars-shield]: https://img.shields.io/github/stars/FrancisDavison/FrancisDavison.svg?style=for-the-badge
+[stars-url]: https://github.com/FrancisDavison/FrancisDavison/stargazers
+[issues-shield]: https://img.shields.io/github/issues/FrancisDavison/FrancisDavison.svg?style=for-the-badge
+[issues-url]: https://github.com/FrancisDavison/FrancisDavison/issues
