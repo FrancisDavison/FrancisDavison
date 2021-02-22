@@ -1,5 +1,7 @@
 Well hey there
 
+<p align="center"><img src="https://profile-counter.glitch.me/{FrancisDavison}/count.svg" alt="FrancisDavison :: Visitor's Count" /></p
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FrancisDavison.FrancisDavison)
 
 <p align="center">
