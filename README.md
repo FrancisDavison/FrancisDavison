@@ -17,9 +17,3 @@ Visitor Count:
     <img height="375em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/23cc11d0-5237-4bf5-817d-0099fbbc17e3.svg"/>
   </a>
 </p>
-    
-           
-           
-           
-           
-         
