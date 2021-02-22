@@ -12,4 +12,12 @@ Visitor Count:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisDavison&layout=compact)](https://github.com/FrancisDavison/github-readme-stats)
+f
+f
+f
+f
+ff
+
+
+
+<img src="https://github.com/FrancisDavison/FrancisDavison/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
