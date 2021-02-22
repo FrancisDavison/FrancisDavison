@@ -1,7 +1,7 @@
 Well hey there
 
 Visitor Count:
-<p align="center"><img src="https://profile-counter.glitch.me/{FrancisDavison}/count.svg" alt="FrancisDavison :: Visitor's Count" /></p
+<p align="left"><img src="https://profile-counter.glitch.me/{FrancisDavison}/count.svg" alt="FrancisDavison :: Visitor's Count" /></p
 
 <p align="center">
 <a href="https://github.com/AVS1508">
