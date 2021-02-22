@@ -5,7 +5,7 @@ Visitor Count:
   <img src="https://profile-counter.glitch.me/{FrancisDavison}/count.svg" alt="FrancisDavison :: Visitor's Count" />
 </p
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/FrancisDavison">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrancisDavison&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
