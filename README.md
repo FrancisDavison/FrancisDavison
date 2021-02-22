@@ -12,12 +12,3 @@ Visitor Count:
   </a>
 </p>
 
-f
-f
-f
-f
-ff
-
-
-
-<img src="https://github.com/FrancisDavison/FrancisDavison/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
