@@ -13,8 +13,8 @@ Visitor Count:
 
 <p align="left">
   <a href="https://github.com/FrancisDavison">
-    <img height="380em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/86e4ba0a-cf72-4721-98ba-c3e69b2dab2c.svg"/>
-    <img height="380em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/23cc11d0-5237-4bf5-817d-0099fbbc17e3.svg"/>
+    <img height="375em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/86e4ba0a-cf72-4721-98ba-c3e69b2dab2c.svg"/>
+    <img height="375em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/23cc11d0-5237-4bf5-817d-0099fbbc17e3.svg"/>
   </a>
 </p>
     
