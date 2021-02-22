@@ -12,3 +12,4 @@ Visitor Count:
   </a>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/86e4ba0a-cf72-4721-98ba-c3e69b2dab2c.svg"></embed></figure>
