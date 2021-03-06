@@ -5,7 +5,7 @@ Well hey there, my name is Francis, I'm a second year University student studyin
 </p>
   
 <p>
-  <img height="400em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/01e298da-02e3-4597-9687-1d4ade7d968d.svg"/>
+  <img align="center" height="400em" src="https://wakatime.com/share/@0090ab59-b491-43cc-9eac-edbd2549f21d/01e298da-02e3-4597-9687-1d4ade7d968d.svg"/>
 </p>
 
 <p>
