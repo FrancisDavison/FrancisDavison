@@ -1,1 +1,1 @@
-Well hey there, my name is Francis, I'm a second year University student studying Computer Science in West London. I'm still fairly new to both GitHub and programming in general so my profile readme is a bit random. But I'm learning and improving my code each day
+Well hey there, my name is Francis, I'm a third year University student studying Computer Science in West London
