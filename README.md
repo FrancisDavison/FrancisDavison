@@ -1,1 +1,1 @@
-Well hey there, my name is Francis, I'm a third year University student studying Computer Science in West London
+Well hey there, my name is Francis, I'm a third year University student studying Computer Science at Brunel University London
